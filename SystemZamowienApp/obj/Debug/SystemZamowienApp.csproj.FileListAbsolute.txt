@@ -1,0 +1,13 @@
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.csprojResolveAssemblyReference.cache
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.csproj.CoreCompileInputs.cache
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\bin\Debug\SystemZamowienApp.exe.config
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\bin\Debug\SystemZamowienApp.exe
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\bin\Debug\SystemZamowienApp.pdb
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.exe
+D:\Users\tomasz.pawlowski\source\repos\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.pdb
+C:\Users\mojeKonto\Downloads\SystemZamowienApp\SystemZamowienApp\bin\Debug\SystemZamowienApp.exe.config
+C:\Users\mojeKonto\Downloads\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.exe
+C:\Users\mojeKonto\Downloads\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.pdb
+C:\Users\mojeKonto\Downloads\SystemZamowienApp\SystemZamowienApp\bin\Debug\SystemZamowienApp.exe
+C:\Users\mojeKonto\Downloads\SystemZamowienApp\SystemZamowienApp\bin\Debug\SystemZamowienApp.pdb
+C:\Users\mojeKonto\Downloads\SystemZamowienApp\SystemZamowienApp\obj\Debug\SystemZamowienApp.csprojResolveAssemblyReference.cache
